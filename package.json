@@ -1,0 +1,16 @@
+{
+  "name": "bench-node-dns",
+  "version": "0.0.0",
+  "description": "Benchmark Node DNS performance",
+  "main": "bench-node-dns.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/opentable/bench-node-dns.git"
+  },
+  "author": "Steven Schlansker",
+  "dependencies": {
+    "benchmark": "~2.1.0"
+  },
+  "homepage": "https://github.com/opentable/bench-node-dns",
+  "license": "MIT"
+}
